@@ -1,0 +1,145 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+.top-div
+{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 600px;
+}
+.Menu
+{
+	width: 10%;
+	height: 100%;
+	background-color: red;
+	float: left;
+	position: relative;
+}
+ul
+{
+	list-style: none;
+	padding-left: 0;
+}
+ul li
+{
+	margin-top: 30px;
+	font-weight: bold;
+	border-bottom: 1px solid white;
+	padding-bottom: 30px;
+	text-align: center;
+}
+ul li a
+{
+	text-decoration: none;
+	color: white;
+	font-size: 18px;		
+}
+ul li a:hover
+{
+	/*background-color: black;*/
+	color: blue;
+}
+.Lot-2
+{
+	width: 25%;
+	height: 100%;
+	background-color: blue;
+	background-color: transparent;
+	overflow: hidden;
+	float: right;
+	margin-left: 0;
+}
+.Lot-2-1
+{
+	margin: 10px auto;
+	width: 98%;
+	height: 30%;
+}
+.img-Lot-2-1
+{
+	width: 100%;
+	height: 100%;
+}
+.p1
+{
+	display: inline-block;
+	margin-top: 1px;
+	font-size: 0.8em;
+	font-weight: bold;
+}
+.Lot-2-2
+{
+	margin: 1px auto;
+	width: 98%;
+	height: 70%;
+	background-color: #03396c;
+	color: white;
+}
+h2
+{
+	width: 60%;
+	font-family: 'Lexend Deca', sans-serif;
+	margin-left: 10px;
+}
+p
+{
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-left: 10px;
+}
+input
+{
+	width: 7px;
+	height: 5px;
+	padding: 7px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	font-family: 'Lexend Deca', sans-serif;
+}
+.section3
+{
+	width: 65%;
+	height: 100%;
+	float: right;
+	position: relative;
+	background: url(bassogog.jpg) no-repeat;
+}
+}
+.Main-title
+{
+	width: 50%;
+	height: 25%;
+	font-family: 'Lexend Deca', sans-serif;
+	color: white;
+}
+h1
+{
+	width: 550px;
+	height: 180px;
+	font-weight: bold;
+	font-size: 75px;
+	background-color: black;
+	color: yellow;
+	padding-left: 35px;
+	opacity: 0.60;
+	margin-left: 75px;
+	margin-top: 300px;
+	cursor: pointer;
+}
+.btn
+{
+	border: 15px;
+	padding: 15px;
+	padding-left: 35px;
+	padding-right: 50px;
+	background-color: yellow;
+	color: black;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 75px;
+	margin-bottom: 100px;
+}
